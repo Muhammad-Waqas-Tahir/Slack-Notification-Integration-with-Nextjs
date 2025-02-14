@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "genial-insight-450217-f3",
+  "private_key_id": "a3452806faba48ae39d9886fe15e7d45b67cdd76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSjsTPn1D9q91m\nCg+mm4tRZSMuOtow2gpJyX5biDgI+2RQ/YnGpizvMUq8kokCXO6lxZsp1g0Me5Bl\nHyBjuRuZM4SlMGD9iCbNs7tBk5vFMBgWQW1lXH0iQ39f8Nv4rAK4vtYSvkSl3Esj\nOT2Bsr+0yWd8JbvLyEoICM7af8OEzwpj1HClt8uFhyzTfCHbAAJrs4zD9+QO9caM\nVTMJVYztoZUusc5CT0hMezTE5zP6gdfJTL5ODsbVmT/qNAFYQxaeiI9aRN/RLbcR\ngDvwglpfhFuX1Czx6lnyWKnICOy3d1jkwxOtpG7gyWBRF8nv2pjQBo+Itaoh7BR5\nlF/+8jBJAgMBAAECggEADLk7rvFxkkRXI/e1pMzrix/RA7907Tl7cS0pZ4BA/86g\nxpiXBdmsHFasMAjiFNlv7Tu68nvfMCPoxPlZ0i6M4ypiLAaHinCakHs3w5lcCazY\n5ShoUJzMpFU10WTTbsMIOB/L7V6lY7znV7ctdtLHlUYdp4fjG5hXjQZZZwYhOaiv\nkpSxgHIHiQy+USrVPCxpmhB4b1icAA+SIa8XJk+aF1e7bLzDqittHmpbki+4R8by\n/uV/EQLY2vKY+yr2zh3/yF46ExS+DifmW/jzAYYcmTXcpazvz+pUY2m7bFUf580M\n9cZ8S/ISC9Xx7pBWeqw6A7nl6lj1umpu6PEJoBV0vQKBgQDCLL1iIXf4T4MbKBwh\nEtva+k9gsQ5pylCzma2bY4O5jcjCHOhCvEu1ebFW5p9p99uIiyI+vL4viIQGHHd5\nCkPJ3X60W3oRZFDpqX/Hw+jwUrZ40yZ8Uc/V/XSCrbHAccMkOp8EsnOgWMgbREhp\nuCuIeMdPX46sbufK8w+Rz3yPowKBgQDBOL4s1hG44tMhE4tE30ivJyXwLilLFZ2U\n1Wnl9sZVi0n6v3hT+VvtsCbem9OQYYBYTvyPrr6jEZh9tb4A4nDWu9GbtIAnyaB4\n8YyQzIwPggXCdBkkr6pB08U0UCxrBuyrM4Rba95ktb/E5lAtIk9caZvGK99fVYMj\n5MxZoYAPIwKBgHo9hDRE8avnEpiEFcFUiAhBULuEe5hp/4gxlTOf4ItuERby790j\ngV4L8HLO2Ujy+sfpH3Pzip+OB995CFWw+qAYyu1sMVrFlpKjXIg8c2boC2vhMfdN\n4dPLrg+enaqTc9BY/0cLuPMXMVLJF/VGNlHCB2eWttEjONVxUznuL3KVAoGADEMM\nlo3TPBdw7JVv7iP5WdwzJSXYywIJKQvOF6DsfztCq54BBds6QUA/hzr+VxhI69G/\nZ2LgiDqyoa+p6iZ0oLv0llwDEgNSoro5gGrqrIVE1k1F1zUqqdjFmAdKelRLKqYv\nTRnwWBXMoLM4/VRDEwtErnPUThmAJAP+D+YW2V8CgYBR6aG4adg/IBeVpvSlgmwt\nmz7JcH7TKR7eiJwXjgoyfcKlVYGO0eZODNGKH2Ujqudj9Wt7V76aLzyHSIziHwP2\nKZrj8TFap7BsGxftwfw1rS6pdfSv+bektlZIDJVzpbg02/w3hvx614/xpiLBGjXu\nfuZaBK2k6ysG2BjD+MzLmw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets-access@genial-insight-450217-f3.iam.gserviceaccount.com",
+  "client_id": "107097426099247562241",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets-access%40genial-insight-450217-f3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
